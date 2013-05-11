@@ -1,3 +1,6 @@
+* Sat May 11 2013 Anas Nashif <anas.nashif@intel.com> submit/tizen/20130509.173910@757bab6
+- Set license using %license
+
 * Wed Mar 06 2013 Patrick McCarty <patrick.mccarty@linux.intel.com> upstream/3.0.16@a25f309
 - Add packaging
 - Imported Upstream version 3.0.16
