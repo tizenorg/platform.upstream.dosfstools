@@ -29,6 +29,7 @@ rm -rf %{buildroot}%{_datadir}/doc/dosfstools
 %docs_package
 
 %files
+%manifest %{name}.manifest
 %license COPYING
 %manifest dosfstools.manifest
 %{_sbindir}/dosfsck
